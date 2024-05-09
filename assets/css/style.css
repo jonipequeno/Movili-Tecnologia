@@ -1345,6 +1345,7 @@ button {
 
 .header-section.home-one {
   background: #efefef;
+  background-image: url(/assets/img/Apresentação\ institucional\ \(1\).svg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: right;
