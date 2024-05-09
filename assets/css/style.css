@@ -524,6 +524,11 @@ button {
   max-width: 120px;
 }
 
+.logo{
+  margin-top: 15px;
+  width: 250px;
+}
+
 .dope-btn {
   background-color: #4a7aec;
 }
@@ -561,7 +566,7 @@ button {
 
 .dopenav ul li.megamenu-item > a::after,
 .dopenav ul li.menu-item-has-children > a::after {
-  color: #fff;
+  color: #141414;
 }
 
 .dopenav ul li:hover > a:after {
@@ -569,7 +574,7 @@ button {
 }
 
 .dope-nav-container.dope-sticky {
-  background-color: #fff;
+  background-color: #181818;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
   -webkit-box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.18);
@@ -611,7 +616,7 @@ button {
   outline: none;
   font-size: 16px;
   font-weight: 600;
-  color: #fff;
+  color: #0f0f0f;
   display: inline-block;
 }
 
