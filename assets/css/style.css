@@ -1339,7 +1339,7 @@ button {
 }
 
 .header-section.home-one {
-  background: url(../img/header-bg.jpg);
+  background: #efefef;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: right;
@@ -1352,7 +1352,7 @@ button {
 .header-section.home-one .header-content .header-text-wrap h1,
 .header-section.home-one .header-content .header-text-wrap p,
 .header-section.home-one .header-content .header-text-wrap a {
-  color: #fff;
+  color: #000000;
 }
 
 .header-section.home-one .header-content .header-text-wrap h1 {
